@@ -72,11 +72,13 @@ body{
 
 
 
-form {
-    width: 500px;
+/*form {*/
+/*    width: 500px;*/
+/*}*/
+
+body {
+    background: red;
 }
-
-
 
 
 
